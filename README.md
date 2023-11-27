@@ -1,2 +1,4 @@
-# structural_bayesian
-This is a Python implementation of Structural Bayesian Techniques for Experimental and Behavioral Economics by James Bland
+# Structural Bayesian Techniques for Experimental and Behavioral Economics with Python
+This repository contains a Python adaptation of [James Bland](https://sites.google.com/site/jamesbland/home)'s fantastic book, [*Structural Bayesian Techniques for Experimental and Behavioral Economics*](https://jamesblandecon.github.io/StructuralBayesianTechniques/setting-the-stage.html). Recognizing the value of the original content, which was primarily based in R, I have translated the code into Python to extend its accessibility to those more familiar with Python than R. Please note that while I have made every effort to ensure accuracy, any errors in the translated code are solely mine. I hope this work broadens the reach of Bland's valuable insights into  experimental economics."
+
+Currently, this project is in progress. If you would like to join this project, please feel free to contact me.
